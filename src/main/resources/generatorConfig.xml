@@ -8,6 +8,8 @@
 		MyBatis3:豪华版
 	
 	 -->
+	
+<!--在自己maven下载好的jar包中找到该jar包，然后复制路径，替换下面的路径-->	
     <classPathEntry location="E:\IDEA_MAVEN\MavenRepository\mysql\mysql-connector-java\8.0.12\mysql-connector-java-8.0.12.jar" />
   <context id="DB2Tables" targetRuntime="MyBatis3Simple">
   	<!-- jdbcConnection：指定如何连接到目标数据库 -->
